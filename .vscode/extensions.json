@@ -1,5 +1,6 @@
 {
     "unwantedRecommendations": [
-        "kenhowardpdx.vscode-gist"
+        "kenhowardpdx.vscode-gist",
+        "eamodio.gitlens"
     ]
 }
